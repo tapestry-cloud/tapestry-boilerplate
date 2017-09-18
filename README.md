@@ -25,3 +25,6 @@ Composer will install the latest stable version of Tapestry locally to the proje
 ## Learning
 
 [Click here](https://www.tapestry.cloud/documentation/) for the quick start guide on getting started with Tapestry and how to extend this boilerplate to meet your needs.
+
+## License
+This Tapestry Boilerplate is open sourced software licensed under the [MIT License](LICENSE).
