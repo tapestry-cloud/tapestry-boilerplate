@@ -10,7 +10,7 @@ To install this boilerplate, use the Composer `create-project` command in your t
 composer create-project --prefer-dist tapestry-cloud/tapestry-boilerplate my-tapestry-project
 ```
 
-## building
+## Building
 
 Composer will install the latest stable version of Tapestry locally to the projects `vendor` folder, to run Tapestry use the following command in your termainal relative to your project root:
 
