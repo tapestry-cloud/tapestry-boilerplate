@@ -1,5 +1,7 @@
 # Tapestry Boilerplate Project
 
+[![Packagist](https://img.shields.io/packagist/v/tapestry-cloud/tapestry-boilerplate.svg?style=flat-square)](https://packagist.org/packages/tapestry-cloud/tapestry-boilerplate)
+
 This is a basic unopinionated Boilerplate Project to help you get started building static websites with Tapestry.
 
 ## Installing
