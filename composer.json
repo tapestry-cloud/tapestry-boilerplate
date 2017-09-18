@@ -1,0 +1,21 @@
+{
+    "name": "tapestry-cloud/tapestry-boilerplate",
+    "keywords": ["Tapestry", "Static Site Generator", "Boilerplate"],
+    "description": "Boilerplate Tapestry Project",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Simon Dann",
+            "email": "simon.dann@gmail.com"
+        }
+    ],
+    "require": {
+        "tapestry-cloud/tapestry": "^1.0"
+    },
+    "config": {
+        "preferred-install": "dist",
+        "sort-packages": true,
+        "optimize-autoloader": true
+    }
+}
